@@ -28,3 +28,7 @@
 
 // NOTE: 
 // No more 4 current todos
+// Smoth adaptation of blocks notes
+// Choose a notes main layout
+// Background animation
+// Showing page in page
